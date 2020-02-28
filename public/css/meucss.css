@@ -1,0 +1,126 @@
+.text-white {
+    color: white;
+}
+.text-black {
+    color: black;
+}
+.btn150{
+    min-width: 140px ;
+}
+.btn200{
+    min-width: 200px ;
+}
+.btnEdit{
+    font-size: 1.5em ;
+    color: green ;
+}
+
+.btnDel{
+    font-size: 1.5em ;
+    color: red ;
+}
+
+.corpo{
+    background-color: white ;
+    margin-top : 90px; 
+    margin-bottom: 20px ;
+    padding: 10px ;
+    border-radius: 15px;
+}
+.lh35 {
+    line-height: 35px ;
+}
+.caixa-cab {
+    min-height: 80px ;
+    padding-top: 10px ;
+    padding-left: 30px ;
+    padding-right: 30px ;
+    padding-bottom: 10px ;
+
+}
+
+.etiqueta{
+    padding: 5px 20px 5px 20px ;
+}
+
+.faixa1 {
+    background-image: url('../imagens/faixa2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 450px;
+}
+
+.error{
+    font-size: 12px;
+    color:#9b5054;
+}
+
+input .error{
+    border : #9b5054 solid 1px;
+}
+
+
+.navegador{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fundo {
+    background-image: url('../imagens/fundo2.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.fundo0 {
+    background-image: url('../imagens/mobile.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.icone{
+    min-width: 20px ;
+    margin-right: 10px ;
+}
+
+.acoes{
+    font-size: 1.6em ;
+    vertical-align: middle ;
+}
+.fundo1 {
+    background-image: url('../imagens/suporte.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+
+.quadro {
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+
+.t1 {
+    font-size: 36px;
+}
+
+.c1 {
+    font-size: 20px;
+}
+
+.c2 {
+    font-size: 18px;
+}
+
+.bg-tomato{
+    background-color: tomato ;
+}
+
+.bg-padrao{
+    background-color: #252d30 ;
+}
+
+.bg-padrao:hover{    
+    background-color : #96a455 ; 
+}
+.text-verde{
+    color : #96a455 ; 
+}
+
